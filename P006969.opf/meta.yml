@@ -1,15 +1,16 @@
-id: opecha:P006969
+id: P006969
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24104
   title: སྡེ་དགེའི་བྲོ་ཆེན།
-  volume:
+  author: ''
+  volumes:
     c4e675814968443db33be32407f23b25:
       image_group_id: I1KG24255
       title: Volume 1 of sde dge'i bro chen/
       volume_number: 1
       total_pages: 364
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྡེ་དགེའི་བྲོ་ཆེན།
   author: ''
